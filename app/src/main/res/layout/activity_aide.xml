@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#51EDE9E9"
+    android:orientation="vertical"
+    tools:context=".Aide">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        />
+    <TextView
+        android:id="@+id/textaide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="15"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Page d'aide ?\n\n 1-Si vous voulez voir la page media allez
+\n dans la page Login et puis clicker sur visiter la page media. \n
+\n2-Si l'Aplication est stoper priez de le rédemarer \n\n
+3-Pour ajouter une voiture allez dans le menu choisir ajouter une voitures\n\n
+4-Pour modifier une voiture juste clicker sur l'enregistrement que vous avez faites puis modifier  ce que
+vous voulez puis clicker sur le bouton Enregistrer.\n\n
+5-Pour Supprimer une voiture juste presser longuement sur l'enregistrement que vous avez faites  puis clicker sur le bouton Ok.\n\n
+-Si vous ne voulez pas clicker sur le bouton Annuler.\n\n
+6-Pour Suprimer toutes les enregistrements allez dans le menu clicker sur Vider la liste puis Redemarrer l'application\n
+---Pour plus d'informations envoyez-nous un mail [nelsonherby4859@gmail.com]"
+        android:textColor="#141415"
+        android:textSize="20dp" />
+    <Button
+        android:id="@+id/btnaide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Retour"/>
+
+</LinearLayout>

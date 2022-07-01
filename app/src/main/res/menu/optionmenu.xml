@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/more"
+        android:title=""
+        android:icon="@drawable/menu"
+        app:showAsAction="always"
+        >
+        <menu>
+            <item android:id="@+id/addvoitures"
+                android:title="Ajouter voitures"
+                android:icon="@drawable/car_24"
+                app:showAsAction="ifRoom"
+                />
+            <item android:id="@+id/Viderliste"
+                android:title="Vider la liste"
+                android:icon="@drawable/delete_forever_24"
+                app:showAsAction="ifRoom"
+                />
+            <item android:id="@+id/aide"
+                android:title="Aide"
+                android:icon="@drawable/help_24"
+                app:showAsAction="ifRoom"            />
+            <item android:id="@+id/quit"
+                android:icon="@drawable/exit"
+                app:showAsAction="ifRoom"
+                android:title="Quitter"
+                />
+        </menu>
+
+    </item>
+
+</menu>

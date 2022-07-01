@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RentACar</string>
+
+    <string name="liste_des_voitures">Couleur de voitures</string>
+    <string-array name="spinner">
+        <item>Rouge</item>
+        <item>Gris</item>
+        <item>Bleu</item>
+        <item>Noir</item>
+        <item>Blanc</item>
+    </string-array>
+</resources>
