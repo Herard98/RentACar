@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/Herard98/RentACar/compare/master?expand=1#diff-31ddf66169f52f0a6ed96aa2c096449fd63a460a374055d2a17067513affd313)' title='Rentacarvideo' width='' alt='Rentacarvideo' />
+<img src='Rentacarvideo.mp4' title='Rentacarvideo' width='' alt='Rentacarvideo' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
