@@ -4,7 +4,7 @@
 
 Submitted by: **lopes Herard**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -22,9 +22,9 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video Rentacarvideo
 
-Here's a walkthrough of implemented user stories:
+Here's a Rentacarvideo implemented user stories:
 
 <img src='Rentacarvideo.mp4' title='Rentacarvideo' width='' alt='Rentacarvideo' />
 
